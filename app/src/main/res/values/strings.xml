@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoLogin</string>
+    <string name="logout">logout</string>
+</resources>
